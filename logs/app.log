@@ -1,0 +1,607 @@
+2026-02-01 14:50:24,947 - root - INFO - Logging initialisiert!
+2026-02-01 14:50:24,948 - python_template.utils.config - INFO - Root: /home/office/Documents/projects/python-template
+2026-02-01 14:50:24,950 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:50:24,951 - __main__ - WARNING - App startet!
+2026-02-01 14:50:24,951 - __main__ - INFO - Hauptlogik!
+2026-02-01 14:50:42,330 - root - INFO - Logging initialisiert!
+2026-02-01 14:50:42,330 - python_template.utils.config - INFO - Root: /home/office/Documents/projects/python-template
+2026-02-01 14:50:42,332 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:50:42,332 - __main__ - INFO - App startet!
+2026-02-01 14:50:42,332 - __main__ - INFO - Hauptlogik!
+2026-02-01 14:52:31,644 - root - INFO - Logging initialisiert!
+2026-02-01 14:52:31,644 - python_template.utils.config - INFO - Root: /home/office/Documents/projects/python-template
+2026-02-01 14:52:31,646 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:52:31,646 - __main__ - INFO - App startet!
+2026-02-01 14:52:31,646 - __main__ - INFO - Hauptlogik!
+2026-02-01 14:55:44,203 - root - INFO - Logging initialisiert!
+2026-02-01 14:55:44,203 - python_template.utils.config - INFO - Root: /home/office/Documents/projects/python-template
+2026-02-01 14:55:44,205 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:55:44,205 - __main__ - INFO - App startet!
+2026-02-01 14:55:44,205 - __main__ - INFO - Hauptlogik!
+2026-02-01 14:56:10,241 - root - INFO - Logging initialisiert!
+2026-02-01 14:56:10,242 - python_template.utils.config - INFO - Root: /home/office/Documents/projects/python-template
+2026-02-01 14:56:10,243 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:56:10,243 - __main__ - INFO - App startet!
+2026-02-01 14:56:10,243 - __main__ - INFO - Hauptlogik!
+2026-02-01 14:56:10,243 - python_template.utils.config - WARNING - Config 'project.name' → default
+2026-02-01 14:58:03,167 - root - INFO - Logging initialisiert!
+2026-02-01 14:58:03,167 - python_template.utils.config - INFO - Root: /home/office/Documents/projects/python-template
+2026-02-01 14:58:03,170 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:58:03,170 - __main__ - INFO - App startet!
+2026-02-01 14:58:03,170 - __main__ - INFO - Hauptlogik!
+2026-02-01 14:58:41,834 - root - INFO - Logging initialisiert!
+2026-02-01 14:58:41,835 - python_template.utils.config - INFO - Root: /home/office/Documents/projects/python-template
+2026-02-01 14:58:41,836 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:58:41,836 - __main__ - INFO - App startet!
+2026-02-01 14:58:41,836 - __main__ - INFO - Hauptlogik!
+2026-02-01 14:59:25,430 - root - INFO - Logging initialisiert!
+2026-02-01 14:59:25,432 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 14:59:25,432 - __main__ - INFO - App startet!
+2026-02-01 14:59:25,432 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:01:50,445 - root - INFO - Logging initialisiert!
+2026-02-01 15:01:50,446 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:01:50,447 - __main__ - INFO - App startet!
+2026-02-01 15:01:50,447 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:07:23,254 - root - INFO - Logging initialisiert!
+2026-02-01 15:07:23,256 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:07:23,256 - __main__ - INFO - App startet!
+2026-02-01 15:07:23,256 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:07:44,959 - root - INFO - Logging initialisiert!
+2026-02-01 15:07:44,961 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:07:44,961 - __main__ - INFO - App startet!
+2026-02-01 15:07:44,961 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:11:22,333 - root - INFO - Logging initialisiert!
+2026-02-01 15:11:22,335 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:11:22,335 - __main__ - INFO - App startet!
+2026-02-01 15:11:22,335 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:11:44,105 - root - INFO - Logging initialisiert!
+2026-02-01 15:11:44,107 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:11:44,107 - __main__ - INFO - App startet!
+2026-02-01 15:11:44,107 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:12:15,992 - root - INFO - Logging initialisiert!
+2026-02-01 15:12:15,998 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:12:15,998 - __main__ - INFO - App startet!
+2026-02-01 15:12:15,998 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:14:38,709 - root - INFO - Logging initialisiert!
+2026-02-01 15:14:38,714 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:14:38,715 - __main__ - INFO - App startet!
+2026-02-01 15:14:38,715 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:14:50,153 - root - INFO - Logging initialisiert!
+2026-02-01 15:14:50,159 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:14:50,159 - __main__ - INFO - App startet!
+2026-02-01 15:14:50,159 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:15:03,308 - root - INFO - Logging initialisiert!
+2026-02-01 15:15:03,314 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:15:03,314 - __main__ - INFO - App startet!
+2026-02-01 15:15:03,314 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:18:31,107 - root - INFO - Logging initialisiert!
+2026-02-01 15:18:40,992 - root - INFO - Logging initialisiert!
+2026-02-01 15:18:57,494 - root - INFO - Logging initialisiert!
+2026-02-01 15:18:57,500 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:18:57,500 - __main__ - INFO - App startet!
+2026-02-01 15:18:57,500 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:19:31,351 - root - INFO - Logging initialisiert!
+2026-02-01 15:19:31,358 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:19:31,358 - __main__ - INFO - App startet!
+2026-02-01 15:19:31,358 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:20:21,610 - root - INFO - Logging initialisiert!
+2026-02-01 15:20:21,616 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:20:21,616 - __main__ - INFO - App startet!
+2026-02-01 15:20:21,616 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:20:42,562 - root - INFO - Logging initialisiert!
+2026-02-01 15:20:42,569 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:20:42,569 - __main__ - INFO - App startet!
+2026-02-01 15:20:42,569 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:22:50,375 - root - INFO - Logging initialisiert!
+2026-02-01 15:22:50,381 - python_template.utils.config - INFO - Config geladen: /home/office/Documents/projects/python-template/config/config.yaml
+2026-02-01 15:22:50,381 - __main__ - INFO - App startet!
+2026-02-01 15:22:50,381 - __main__ - INFO - Hauptlogik!
+2026-02-01 15:22:55,365 - root - INFO - Logging initialisiert!
+2026-02-01 15:23:06,252 - root - INFO - Logging initialisiert!
+2026-02-01 15:23:11,642 - root - INFO - Logging initialisiert!
+2026-02-01 15:24:02,333 - root - INFO - Logging initialisiert!
+2026-02-02 14:05:15,113 - root - INFO - Logging initialized!
+2026-02-02 14:05:15,120 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.yaml
+2026-02-02 14:05:15,120 - __main__ - INFO - App startet!
+2026-02-02 14:05:15,120 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:05:48,513 - root - INFO - Logging initialized!
+2026-02-02 14:05:48,520 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.yaml
+2026-02-02 14:05:48,520 - __main__ - INFO - App startet!
+2026-02-02 14:05:48,520 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:16:51,408 - root - INFO - Logging initialized!
+2026-02-02 14:16:51,418 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.yaml
+2026-02-02 14:16:51,418 - __main__ - INFO - App startet!
+2026-02-02 14:16:51,418 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:20:42,930 - root - INFO - Logging initialized!
+2026-02-02 14:20:42,935 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.yaml
+2026-02-02 14:20:42,935 - __main__ - INFO - App startet!
+2026-02-02 14:20:42,935 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:34:46,953 - root - INFO - Logging initialized!
+2026-02-02 14:35:12,450 - root - INFO - Logging initialized!
+2026-02-02 14:35:12,455 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 14:35:12,455 - __main__ - INFO - App startet!
+2026-02-02 14:35:12,455 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:37:44,861 - root - INFO - Logging initialized!
+2026-02-02 14:37:44,866 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 14:37:44,866 - __main__ - INFO - App startet!
+2026-02-02 14:37:44,866 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:39:24,228 - root - INFO - Logging initialized!
+2026-02-02 14:39:24,234 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 14:39:24,234 - __main__ - INFO - App startet!
+2026-02-02 14:39:24,234 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:39:41,220 - root - INFO - Logging initialized!
+2026-02-02 14:39:41,226 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 14:39:41,226 - __main__ - INFO - App startet!
+2026-02-02 14:39:41,227 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:41:40,869 - root - INFO - Logging initialized!
+2026-02-02 14:41:40,875 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 14:41:40,875 - __main__ - INFO - App startet!
+2026-02-02 14:41:40,875 - __main__ - INFO - Hauptlogik!
+2026-02-02 14:45:40,450 - root - INFO - Logging initialized!
+2026-02-02 14:45:40,459 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 14:45:40,459 - __main__ - INFO - App startet!
+2026-02-02 14:45:40,459 - __main__ - INFO - Hauptlogik!
+2026-02-02 15:10:15,895 - root - INFO - Logging initialized!
+2026-02-02 15:10:15,900 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 15:10:15,900 - __main__ - INFO - App startet!
+2026-02-02 15:10:15,900 - __main__ - INFO - Hauptlogik!
+2026-02-02 15:10:22,097 - root - INFO - Logging initialized!
+2026-02-02 15:10:22,102 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 15:10:22,103 - __main__ - INFO - App startet!
+2026-02-02 15:10:22,103 - __main__ - INFO - Hauptlogik!
+2026-02-02 15:10:27,864 - root - INFO - Logging initialized!
+2026-02-02 15:10:27,872 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 15:10:27,872 - __main__ - INFO - App startet!
+2026-02-02 16:35:08,383 - root - INFO - Logging initialized!
+2026-02-02 16:35:08,388 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:35:08,388 - __main__ - INFO - App startet!
+2026-02-02 16:42:25,036 - root - INFO - Logging initialized!
+2026-02-02 16:42:25,042 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:42:25,042 - __main__ - INFO - App startet!
+2026-02-02 16:43:55,716 - root - INFO - Logging initialized!
+2026-02-02 16:43:55,722 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:43:55,722 - __main__ - INFO - App startet!
+2026-02-02 16:44:50,280 - root - INFO - Logging initialized!
+2026-02-02 16:44:50,285 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:44:50,286 - __main__ - INFO - App startet!
+2026-02-02 16:45:29,507 - root - INFO - Logging initialized!
+2026-02-02 16:45:29,513 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:45:29,513 - __main__ - INFO - App startet!
+2026-02-02 16:46:49,779 - root - INFO - Logging initialized!
+2026-02-02 16:46:49,784 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:46:49,784 - __main__ - INFO - App startet!
+2026-02-02 16:47:01,893 - root - INFO - Logging initialized!
+2026-02-02 16:47:01,898 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:47:01,898 - __main__ - INFO - App startet!
+2026-02-02 16:47:29,603 - root - INFO - Logging initialized!
+2026-02-02 16:47:29,608 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:47:29,608 - __main__ - INFO - App startet!
+2026-02-02 16:50:27,507 - root - INFO - Logging initialized!
+2026-02-02 16:50:27,512 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:50:27,512 - __main__ - INFO - App startet!
+2026-02-02 16:55:26,277 - root - INFO - Logging initialized!
+2026-02-02 16:55:26,282 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:55:26,282 - __main__ - INFO - App startet!
+2026-02-02 16:56:07,616 - root - INFO - Logging initialized!
+2026-02-02 16:56:07,620 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:56:07,621 - __main__ - INFO - App startet!
+2026-02-02 16:58:05,001 - root - INFO - Logging initialized!
+2026-02-02 16:58:05,006 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:58:05,006 - __main__ - INFO - App startet!
+2026-02-02 16:58:56,555 - root - INFO - Logging initialized!
+2026-02-02 16:58:56,560 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:58:56,560 - __main__ - INFO - App startet!
+2026-02-02 16:59:43,054 - root - INFO - Logging initialized!
+2026-02-02 16:59:43,059 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 16:59:43,059 - __main__ - INFO - App startet!
+2026-02-02 17:01:29,326 - root - INFO - Logging initialized!
+2026-02-02 17:01:29,331 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:01:29,331 - __main__ - INFO - App startet!
+2026-02-02 17:01:40,723 - root - INFO - Logging initialized!
+2026-02-02 17:01:40,728 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:01:40,728 - __main__ - INFO - App startet!
+2026-02-02 17:02:31,035 - root - INFO - Logging initialized!
+2026-02-02 17:02:31,041 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:02:31,041 - __main__ - INFO - App startet!
+2026-02-02 17:05:17,699 - root - INFO - Logging initialized!
+2026-02-02 17:05:17,704 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:05:17,704 - __main__ - INFO - App startet!
+2026-02-02 17:06:29,581 - root - INFO - Logging initialized!
+2026-02-02 17:06:29,586 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:06:29,586 - __main__ - INFO - App startet!
+2026-02-02 17:08:28,964 - root - INFO - Logging initialized!
+2026-02-02 17:08:28,969 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:08:28,969 - __main__ - INFO - App startet!
+2026-02-02 17:09:15,837 - root - INFO - Logging initialized!
+2026-02-02 17:09:15,843 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:09:15,843 - __main__ - INFO - App startet!
+2026-02-02 17:10:52,948 - root - INFO - Logging initialized!
+2026-02-02 17:10:52,953 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:10:52,954 - __main__ - INFO - App startet!
+2026-02-02 17:14:09,863 - root - INFO - Logging initialized!
+2026-02-02 17:14:09,868 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:14:09,868 - __main__ - INFO - App startet!
+2026-02-02 17:27:40,333 - root - INFO - Logging initialized!
+2026-02-02 17:27:40,338 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:27:40,338 - __main__ - INFO - App startet!
+2026-02-02 17:28:12,584 - root - INFO - Logging initialized!
+2026-02-02 17:28:12,589 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:28:12,589 - __main__ - INFO - App startet!
+2026-02-02 17:30:02,510 - root - INFO - Logging initialized!
+2026-02-02 17:30:02,519 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:30:02,520 - __main__ - INFO - App startet!
+2026-02-02 17:30:54,439 - root - INFO - Logging initialized!
+2026-02-02 17:30:54,443 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:30:54,443 - __main__ - INFO - App startet!
+2026-02-02 17:31:24,157 - root - INFO - Logging initialized!
+2026-02-02 17:31:24,161 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:31:24,161 - __main__ - INFO - App startet!
+2026-02-02 17:33:11,923 - root - INFO - Logging initialized!
+2026-02-02 17:33:11,927 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:33:11,927 - __main__ - INFO - App startet!
+2026-02-02 17:33:31,952 - root - INFO - Logging initialized!
+2026-02-02 17:33:31,956 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:33:31,956 - __main__ - INFO - App startet!
+2026-02-02 17:33:53,246 - root - INFO - Logging initialized!
+2026-02-02 17:33:53,251 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:33:53,251 - __main__ - INFO - App startet!
+2026-02-02 17:35:39,142 - root - INFO - Logging initialized!
+2026-02-02 17:35:39,147 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:35:39,147 - __main__ - INFO - App startet!
+2026-02-02 17:39:48,343 - root - INFO - Logging initialized!
+2026-02-02 17:39:48,350 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:39:48,350 - __main__ - INFO - App startet!
+2026-02-02 17:40:12,907 - root - INFO - Logging initialized!
+2026-02-02 17:40:12,912 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:40:12,912 - __main__ - INFO - App startet!
+2026-02-02 17:40:42,286 - root - INFO - Logging initialized!
+2026-02-02 17:40:42,290 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:40:42,290 - __main__ - INFO - App startet!
+2026-02-02 17:41:02,581 - root - INFO - Logging initialized!
+2026-02-02 17:41:02,585 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:41:02,586 - __main__ - INFO - App startet!
+2026-02-02 17:41:54,240 - root - INFO - Logging initialized!
+2026-02-02 17:41:54,244 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:41:54,244 - __main__ - INFO - App startet!
+2026-02-02 17:42:09,285 - root - INFO - Logging initialized!
+2026-02-02 17:42:09,290 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:42:09,290 - __main__ - INFO - App startet!
+2026-02-02 17:58:01,990 - root - INFO - Logging initialized!
+2026-02-02 17:58:01,995 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:58:01,995 - __main__ - INFO - App startet!
+2026-02-02 17:58:51,785 - root - INFO - Logging initialized!
+2026-02-02 17:58:51,789 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:58:51,789 - __main__ - INFO - App startet!
+2026-02-02 17:59:02,877 - root - INFO - Logging initialized!
+2026-02-02 17:59:02,881 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:59:02,881 - __main__ - INFO - App startet!
+2026-02-02 17:59:44,550 - root - INFO - Logging initialized!
+2026-02-02 17:59:44,555 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 17:59:44,555 - __main__ - INFO - App startet!
+2026-02-02 18:00:23,458 - root - INFO - Logging initialized!
+2026-02-02 18:00:23,462 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:00:23,462 - __main__ - INFO - App startet!
+2026-02-02 18:01:04,334 - root - INFO - Logging initialized!
+2026-02-02 18:01:04,338 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:01:04,338 - __main__ - INFO - App startet!
+2026-02-02 18:02:18,000 - root - INFO - Logging initialized!
+2026-02-02 18:02:18,005 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:02:18,005 - __main__ - INFO - App startet!
+2026-02-02 18:02:20,562 - root - INFO - Logging initialized!
+2026-02-02 18:02:20,567 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:02:20,568 - __main__ - INFO - App startet!
+2026-02-02 18:18:52,719 - root - INFO - Logging initialized!
+2026-02-02 18:18:52,721 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:18:52,721 - __main__ - INFO - App startet!
+2026-02-02 18:19:42,028 - root - INFO - Logging initialized!
+2026-02-02 18:19:42,030 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:19:42,030 - __main__ - INFO - App startet!
+2026-02-02 18:20:22,606 - root - INFO - Logging initialized!
+2026-02-02 18:20:22,608 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:20:22,608 - __main__ - INFO - App startet!
+2026-02-02 18:23:27,250 - root - INFO - Logging initialized!
+2026-02-02 18:23:27,253 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:23:27,253 - __main__ - INFO - App startet!
+2026-02-02 18:24:36,487 - root - INFO - Logging initialized!
+2026-02-02 18:24:36,489 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:24:36,489 - __main__ - INFO - App startet!
+2026-02-02 18:24:50,205 - root - INFO - Logging initialized!
+2026-02-02 18:24:50,207 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:24:50,207 - __main__ - INFO - App startet!
+2026-02-02 18:30:05,786 - root - INFO - Logging initialized!
+2026-02-02 18:30:05,788 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:30:05,788 - __main__ - INFO - App startet!
+2026-02-02 18:30:17,388 - root - INFO - Logging initialized!
+2026-02-02 18:30:17,392 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:30:17,392 - __main__ - INFO - App startet!
+2026-02-02 18:32:23,065 - root - INFO - Logging initialized!
+2026-02-02 18:32:23,067 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:32:23,068 - __main__ - INFO - App startet!
+2026-02-02 18:32:51,111 - root - INFO - Logging initialized!
+2026-02-02 18:32:51,113 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:32:51,113 - __main__ - INFO - App startet!
+2026-02-02 18:34:25,059 - root - INFO - Logging initialized!
+2026-02-02 18:34:25,061 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:34:25,062 - __main__ - INFO - App startet!
+2026-02-02 18:39:27,273 - root - INFO - Logging initialized!
+2026-02-02 18:39:27,276 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:39:27,276 - __main__ - INFO - App startet!
+2026-02-02 18:39:49,615 - root - INFO - Logging initialized!
+2026-02-02 18:39:49,617 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:39:49,617 - __main__ - INFO - App startet!
+2026-02-02 18:46:03,468 - root - INFO - Logging initialized!
+2026-02-02 18:46:03,470 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:46:03,470 - __main__ - INFO - App startet!
+2026-02-02 18:49:38,030 - root - INFO - Logging initialized!
+2026-02-02 18:49:38,032 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:49:38,032 - __main__ - INFO - App startet!
+2026-02-02 18:50:31,775 - root - INFO - Logging initialized!
+2026-02-02 18:50:31,777 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:50:31,777 - __main__ - INFO - App startet!
+2026-02-02 18:52:39,896 - root - INFO - Logging initialized!
+2026-02-02 18:52:39,899 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:52:39,899 - __main__ - INFO - App startet!
+2026-02-02 18:52:48,188 - root - INFO - Logging initialized!
+2026-02-02 18:52:48,190 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 18:52:48,191 - __main__ - INFO - App startet!
+2026-02-02 19:01:12,740 - root - INFO - Logging initialized!
+2026-02-02 19:01:12,742 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:01:12,743 - __main__ - INFO - App startet!
+2026-02-02 19:02:18,571 - root - INFO - Logging initialized!
+2026-02-02 19:02:18,573 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:02:18,573 - __main__ - INFO - App startet!
+2026-02-02 19:03:14,811 - root - INFO - Logging initialized!
+2026-02-02 19:03:14,813 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:03:14,813 - __main__ - INFO - App startet!
+2026-02-02 19:03:48,063 - root - INFO - Logging initialized!
+2026-02-02 19:03:48,065 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:03:48,065 - __main__ - INFO - App startet!
+2026-02-02 19:04:35,355 - root - INFO - Logging initialized!
+2026-02-02 19:04:35,357 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:04:35,357 - __main__ - INFO - App startet!
+2026-02-02 19:05:42,274 - root - INFO - Logging initialized!
+2026-02-02 19:05:42,276 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:05:42,276 - __main__ - INFO - App startet!
+2026-02-02 19:07:59,688 - root - INFO - Logging initialized!
+2026-02-02 19:07:59,690 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:07:59,690 - __main__ - INFO - App startet!
+2026-02-02 19:09:23,468 - root - INFO - Logging initialized!
+2026-02-02 19:09:23,470 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:09:23,470 - __main__ - INFO - App startet!
+2026-02-02 19:09:41,456 - root - INFO - Logging initialized!
+2026-02-02 19:09:41,458 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:09:41,458 - __main__ - INFO - App startet!
+2026-02-02 19:10:52,485 - root - INFO - Logging initialized!
+2026-02-02 19:10:52,487 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:10:52,487 - __main__ - INFO - App startet!
+2026-02-02 19:11:11,459 - root - INFO - Logging initialized!
+2026-02-02 19:11:11,461 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:11:11,461 - __main__ - INFO - App startet!
+2026-02-02 19:11:41,417 - root - INFO - Logging initialized!
+2026-02-02 19:11:41,420 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:11:41,420 - __main__ - INFO - App startet!
+2026-02-02 19:12:39,500 - root - INFO - Logging initialized!
+2026-02-02 19:12:39,502 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:12:39,502 - __main__ - INFO - App startet!
+2026-02-02 19:12:58,396 - root - INFO - Logging initialized!
+2026-02-02 19:12:58,399 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:12:58,399 - __main__ - INFO - App startet!
+2026-02-02 19:13:09,052 - root - INFO - Logging initialized!
+2026-02-02 19:13:09,054 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:13:09,055 - __main__ - INFO - App startet!
+2026-02-02 19:13:37,533 - root - INFO - Logging initialized!
+2026-02-02 19:13:37,536 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:13:37,536 - __main__ - INFO - App startet!
+2026-02-02 19:14:36,087 - root - INFO - Logging initialized!
+2026-02-02 19:14:36,090 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:14:36,090 - __main__ - INFO - App startet!
+2026-02-02 19:15:29,031 - root - INFO - Logging initialized!
+2026-02-02 19:15:29,033 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:15:29,033 - __main__ - INFO - App startet!
+2026-02-02 19:16:01,325 - root - INFO - Logging initialized!
+2026-02-02 19:16:01,327 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:16:01,327 - __main__ - INFO - App startet!
+2026-02-02 19:17:35,983 - root - INFO - Logging initialized!
+2026-02-02 19:17:35,985 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:17:35,985 - __main__ - INFO - App startet!
+2026-02-02 19:17:55,445 - root - INFO - Logging initialized!
+2026-02-02 19:17:55,448 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:17:55,448 - __main__ - INFO - App startet!
+2026-02-02 19:18:15,483 - root - INFO - Logging initialized!
+2026-02-02 19:18:15,485 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:18:15,485 - __main__ - INFO - App startet!
+2026-02-02 19:18:28,372 - root - INFO - Logging initialized!
+2026-02-02 19:18:28,375 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:18:28,375 - __main__ - INFO - App startet!
+2026-02-02 19:18:40,002 - root - INFO - Logging initialized!
+2026-02-02 19:18:40,005 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:18:40,005 - __main__ - INFO - App startet!
+2026-02-02 19:18:56,573 - root - INFO - Logging initialized!
+2026-02-02 19:18:56,575 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:18:56,575 - __main__ - INFO - App startet!
+2026-02-02 19:26:22,625 - root - INFO - Logging initialized!
+2026-02-02 19:26:22,627 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:26:22,628 - __main__ - INFO - App startet!
+2026-02-02 19:27:30,354 - root - INFO - Logging initialized!
+2026-02-02 19:27:30,356 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:27:30,356 - __main__ - INFO - App startet!
+2026-02-02 19:27:40,928 - root - INFO - Logging initialized!
+2026-02-02 19:27:40,930 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:27:40,930 - __main__ - INFO - App startet!
+2026-02-02 19:28:12,008 - root - INFO - Logging initialized!
+2026-02-02 19:28:12,011 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:28:12,011 - __main__ - INFO - App startet!
+2026-02-02 19:29:02,472 - root - INFO - Logging initialized!
+2026-02-02 19:29:02,474 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:29:02,474 - __main__ - INFO - App startet!
+2026-02-02 19:35:41,504 - root - INFO - Logging initialized!
+2026-02-02 19:35:41,506 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 19:35:41,506 - __main__ - INFO - App startet!
+2026-02-02 21:19:18,935 - root - INFO - Logging initialized!
+2026-02-02 21:19:18,938 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:19:18,938 - __main__ - INFO - App startet!
+2026-02-02 21:21:21,259 - root - INFO - Logging initialized!
+2026-02-02 21:21:21,261 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:21:21,261 - __main__ - INFO - App startet!
+2026-02-02 21:24:16,162 - root - INFO - Logging initialized!
+2026-02-02 21:24:16,164 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:24:16,165 - __main__ - INFO - App startet!
+2026-02-02 21:25:16,878 - root - INFO - Logging initialized!
+2026-02-02 21:25:16,880 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:25:16,881 - __main__ - INFO - App startet!
+2026-02-02 21:26:05,516 - root - INFO - Logging initialized!
+2026-02-02 21:26:05,518 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:26:05,518 - __main__ - INFO - App startet!
+2026-02-02 21:29:51,103 - root - INFO - Logging initialized!
+2026-02-02 21:29:51,105 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:29:51,105 - __main__ - INFO - App startet!
+2026-02-02 21:30:13,975 - root - INFO - Logging initialized!
+2026-02-02 21:30:13,977 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:30:13,977 - __main__ - INFO - App startet!
+2026-02-02 21:30:26,869 - root - INFO - Logging initialized!
+2026-02-02 21:30:26,872 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:30:26,872 - __main__ - INFO - App startet!
+2026-02-02 21:32:08,997 - root - INFO - Logging initialized!
+2026-02-02 21:32:09,000 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:32:09,000 - __main__ - INFO - App startet!
+2026-02-02 21:32:52,886 - root - INFO - Logging initialized!
+2026-02-02 21:32:52,888 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:32:52,889 - __main__ - INFO - App startet!
+2026-02-02 21:33:03,720 - root - INFO - Logging initialized!
+2026-02-02 21:33:03,722 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:33:03,722 - __main__ - INFO - App startet!
+2026-02-02 21:33:32,126 - root - INFO - Logging initialized!
+2026-02-02 21:33:32,128 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:33:32,128 - __main__ - INFO - App startet!
+2026-02-02 21:34:06,315 - root - INFO - Logging initialized!
+2026-02-02 21:34:06,319 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:34:06,319 - __main__ - INFO - App startet!
+2026-02-02 21:34:29,297 - root - INFO - Logging initialized!
+2026-02-02 21:34:29,299 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:34:29,299 - __main__ - INFO - App startet!
+2026-02-02 21:34:38,642 - root - INFO - Logging initialized!
+2026-02-02 21:34:38,645 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:34:38,645 - __main__ - INFO - App startet!
+2026-02-02 21:35:01,246 - root - INFO - Logging initialized!
+2026-02-02 21:35:01,248 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:35:01,248 - __main__ - INFO - App startet!
+2026-02-02 21:38:44,877 - root - INFO - Logging initialized!
+2026-02-02 21:38:44,879 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:38:44,879 - __main__ - INFO - App startet!
+2026-02-02 21:39:41,490 - root - INFO - Logging initialized!
+2026-02-02 21:39:41,492 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:39:41,492 - __main__ - INFO - App startet!
+2026-02-02 21:40:20,158 - root - INFO - Logging initialized!
+2026-02-02 21:40:20,160 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:40:20,161 - __main__ - INFO - App startet!
+2026-02-02 21:40:33,013 - root - INFO - Logging initialized!
+2026-02-02 21:40:33,015 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:40:33,015 - __main__ - INFO - App startet!
+2026-02-02 21:41:02,393 - root - INFO - Logging initialized!
+2026-02-02 21:41:02,395 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:41:02,395 - __main__ - INFO - App startet!
+2026-02-02 21:41:19,392 - root - INFO - Logging initialized!
+2026-02-02 21:41:19,395 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:41:19,395 - __main__ - INFO - App startet!
+2026-02-02 21:42:46,518 - root - INFO - Logging initialized!
+2026-02-02 21:42:46,520 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:42:46,520 - __main__ - INFO - App startet!
+2026-02-02 21:42:56,902 - root - INFO - Logging initialized!
+2026-02-02 21:42:56,904 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:42:56,904 - __main__ - INFO - App startet!
+2026-02-02 21:43:06,431 - root - INFO - Logging initialized!
+2026-02-02 21:43:06,433 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:43:06,433 - __main__ - INFO - App startet!
+2026-02-02 21:45:00,415 - root - INFO - Logging initialized!
+2026-02-02 21:45:00,417 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:45:00,417 - __main__ - INFO - App startet!
+2026-02-02 21:45:35,199 - root - INFO - Logging initialized!
+2026-02-02 21:45:35,201 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:45:35,201 - __main__ - INFO - App startet!
+2026-02-02 21:47:21,152 - root - INFO - Logging initialized!
+2026-02-02 21:47:21,154 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:47:21,154 - __main__ - INFO - App startet!
+2026-02-02 21:49:13,650 - root - INFO - Logging initialized!
+2026-02-02 21:49:13,652 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:49:13,653 - __main__ - INFO - App startet!
+2026-02-02 21:49:21,778 - root - INFO - Logging initialized!
+2026-02-02 21:49:21,781 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:49:21,781 - __main__ - INFO - App startet!
+2026-02-02 21:49:28,704 - root - INFO - Logging initialized!
+2026-02-02 21:49:28,706 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:49:28,706 - __main__ - INFO - App startet!
+2026-02-02 21:50:19,997 - root - INFO - Logging initialized!
+2026-02-02 21:50:19,999 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:50:19,999 - __main__ - INFO - App startet!
+2026-02-02 21:51:11,699 - root - INFO - Logging initialized!
+2026-02-02 21:51:11,702 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:51:11,702 - __main__ - INFO - App startet!
+2026-02-02 21:52:10,898 - root - INFO - Logging initialized!
+2026-02-02 21:52:10,901 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:52:10,901 - __main__ - INFO - App startet!
+2026-02-02 21:52:45,927 - root - INFO - Logging initialized!
+2026-02-02 21:52:45,929 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:52:45,929 - __main__ - INFO - App startet!
+2026-02-02 21:54:48,102 - root - INFO - Logging initialized!
+2026-02-02 21:54:48,104 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:54:48,104 - __main__ - INFO - App startet!
+2026-02-02 21:56:00,743 - root - INFO - Logging initialized!
+2026-02-02 21:56:00,745 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:56:00,745 - __main__ - INFO - App startet!
+2026-02-02 21:56:51,226 - root - INFO - Logging initialized!
+2026-02-02 21:56:51,228 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:56:51,228 - __main__ - INFO - App startet!
+2026-02-02 21:56:56,825 - root - INFO - Logging initialized!
+2026-02-02 21:56:56,827 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:56:56,828 - __main__ - INFO - App startet!
+2026-02-02 21:57:50,129 - root - INFO - Logging initialized!
+2026-02-02 21:57:50,131 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:57:50,131 - __main__ - INFO - App startet!
+2026-02-02 21:58:07,216 - root - INFO - Logging initialized!
+2026-02-02 21:58:07,219 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:58:07,220 - __main__ - INFO - App startet!
+2026-02-02 21:58:23,799 - root - INFO - Logging initialized!
+2026-02-02 21:58:23,801 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:58:23,801 - __main__ - INFO - App startet!
+2026-02-02 21:58:50,784 - root - INFO - Logging initialized!
+2026-02-02 21:58:50,786 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:58:50,786 - __main__ - INFO - App startet!
+2026-02-02 21:59:49,678 - root - INFO - Logging initialized!
+2026-02-02 21:59:49,680 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 21:59:49,680 - __main__ - INFO - App startet!
+2026-02-02 22:03:53,104 - root - INFO - Logging initialized!
+2026-02-02 22:03:53,106 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:03:53,106 - __main__ - INFO - App startet!
+2026-02-02 22:04:29,282 - root - INFO - Logging initialized!
+2026-02-02 22:04:29,285 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:04:29,285 - __main__ - INFO - App startet!
+2026-02-02 22:05:14,317 - root - INFO - Logging initialized!
+2026-02-02 22:05:14,320 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:05:14,320 - __main__ - INFO - App startet!
+2026-02-02 22:05:30,330 - root - INFO - Logging initialized!
+2026-02-02 22:05:30,332 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:05:30,332 - __main__ - INFO - App startet!
+2026-02-02 22:05:58,637 - root - INFO - Logging initialized!
+2026-02-02 22:05:58,639 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:05:58,640 - __main__ - INFO - App startet!
+2026-02-02 22:06:43,642 - root - INFO - Logging initialized!
+2026-02-02 22:06:43,644 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:06:43,644 - __main__ - INFO - App startet!
+2026-02-02 22:06:58,366 - root - INFO - Logging initialized!
+2026-02-02 22:06:58,368 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:06:58,369 - __main__ - INFO - App startet!
+2026-02-02 22:07:45,771 - root - INFO - Logging initialized!
+2026-02-02 22:07:45,774 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:07:45,774 - __main__ - INFO - App startet!
+2026-02-02 22:08:48,773 - root - INFO - Logging initialized!
+2026-02-02 22:08:48,775 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:08:48,775 - __main__ - INFO - App startet!
+2026-02-02 22:09:24,667 - root - INFO - Logging initialized!
+2026-02-02 22:09:24,669 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:09:24,669 - __main__ - INFO - App startet!
+2026-02-02 22:09:33,955 - root - INFO - Logging initialized!
+2026-02-02 22:09:33,957 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:09:33,957 - __main__ - INFO - App startet!
+2026-02-02 22:10:11,060 - root - INFO - Logging initialized!
+2026-02-02 22:10:11,062 - textswap.utils.config - INFO - Config loaded: /home/office/Documents/projects/textswap/config/config.toml
+2026-02-02 22:10:11,062 - __main__ - INFO - App startet!

@@ -1,0 +1,18 @@
+# Projekt-Konfiguration
+project:
+  name: "Textswap"
+  version: "1.0.0"
+
+logging:
+  level: "INFO"  # DEBUG|INFO|WARNING|ERROR|CRITICAL
+  file: "logs/app.log"
+path:
+  base_path: "/mnt/python/data/web/"
+database:
+  host: "localhost"
+  port: 5432
+  name: "meine_db"
+
+api:
+  timeout: 30
+  retries: 3
